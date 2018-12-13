@@ -11,5 +11,5 @@ Encoding: UTF-8
 LazyData: true
 Remotes:
   hrbrmstr/vegalite
-Suggests:
+Imports:
   vegalite
